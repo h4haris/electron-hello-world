@@ -1,0 +1,11 @@
+{
+	"name": "electron-hello-world",
+	"version": "1.0.0",
+	"description": "Electron first project - Hello World!",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Haris Shaikh",
+	"license": "ISC"
+}
